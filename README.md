@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -  DAP_Azubi_Africa_Project_Week_1           |  -  My first project in the Azubi Africa DAP           |  https://github.com/prynz-eyram/DAP_Azubi_Africa_Project_Week_1.git      |
+| 2 |  -  DAP_Azubi_Africa_Week_3           |  -  My third project in the Azubi Africa DAP           | https://github.com/prynz-eyram/DAP_Azubi_Africa_Week_3.git      |
+| 3 |  -  DAP_Azubi_Africa_Project_Week_5           |  -   My fifth project in the Azubi Africa DAP          |    https://github.com/prynz-eyram/DAP_Azubi_Africa_Project_Week_5.git   |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
